@@ -1,5 +1,5 @@
 def switch():
-    print ("Press 1 for case 1\nPress 1 for case 2\nPress 3 for case 3.1\nPress 4 for case 3.2\nPress 5 for case 3.3\nPress 6 for case 3.4\nPress 7 for case 3.5\nPress 8 for case 3.6\nPress 9 for case 4\nPress 10 for case 5")
+    print ("Press 1 for case 1 : FizzBuzz \nPress 1 for case 2 : year\nPress 3 for case 3.1\nPress 4 for case 3.2\nPress 5 for case 3.3\nPress 6 for case 3.4\nPress 7 for case 3.5\nPress 8 for case 3.6\nPress 9 for case 4 : difference between else and finally\nPress 10 for case 5 : prime number")
     option = int(input("Your Case ? : "))
     def Case1():
         #examlpe 1
