@@ -125,7 +125,7 @@ def switch():
         7: Case7,
         8: Case8,
         9: Case9,
-        0: Case10
+        10: Case10
     }
 
     switcher.get(option, default)()
